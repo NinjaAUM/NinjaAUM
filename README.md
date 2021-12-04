@@ -6,5 +6,5 @@
 - 🔭 I’m currently working on a [Discord.js bot](https://github.com/NinjaAUM/Example-Discord.js-bot)
 - 🌱 I’m currently learning Node.js and C#
 - 🤔 I’m looking for help with Discord.py bots
-- 📫 How to reach me: Twitter: @NinjaAUM
+- 📫 How to reach me: Twitter: [@RealNinjaAUM](https://twitter.com/RealNinjaAUM)
 - 😄 Pronouns: he/him
