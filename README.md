@@ -8,3 +8,4 @@
 - 🤔 I’m looking for help [discord-bot-templates](https://github.com/orgs/Discord-bot-templates) org
 - 📫 How to reach me: Twitter: [@RealNinjaAUM](https://twitter.com/RealNinjaAUM)
 - 😄 Pronouns: he/him
+- 🎉 Happy 2022!
