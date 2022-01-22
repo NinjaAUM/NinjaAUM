@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning css and C#
 - 📫 How to reach me: Twitter: [@RealNinjaAUM](https://twitter.com/ToggleXmc)
 - 😄 Pronouns: he/him
-- 🎉 Happy 2022!
+- 🎉 Happy fatness!
